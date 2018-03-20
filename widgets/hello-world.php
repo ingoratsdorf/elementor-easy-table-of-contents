@@ -38,7 +38,7 @@ class Hello_World extends Widget_Base {
 	 * @return string Widget title.
 	 */
 	public function get_title() {
-		return __( 'Table of Contents', 'hello-world' );
+		return __( 'Easy<br>Table of Contents', 'hello-world' );
 	}
 
 	/**
