@@ -8,8 +8,8 @@ This plugin is currently not fully working. It is intended as an experimental ex
 https://github.com/pojome/elementor-hello-world
 
 ## Required Plugins
-https://wordpress.org/plugins/easy-table-of-contents/
-https://wordpress.org/plugins/elementor/
+- https://wordpress.org/plugins/easy-table-of-contents/
+- https://wordpress.org/plugins/elementor/
 
 ## Useful Resources
 
